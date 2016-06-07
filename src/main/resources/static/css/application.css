@@ -1,0 +1,15 @@
+html {
+  color: #252525;
+  box-sizing: border-box;
+  text-rendering:auto;
+}
+
+body {
+  font-weight: 300;
+  font-size: 1.2em;
+  line-height: 1.8;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
